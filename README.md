@@ -1,4 +1,5 @@
 What This Project Does
+
 This AI-based pose detection system uses the webcam to track human body movements in real time. It identifies key body landmarks such as shoulders, elbows, hips, and knees, and creates a live skeletal structure on the screen. The system can detect whether a person is properly visible in the frame and continuously tracks body posture with high accuracy.
 Smart Features Added
 Real-time body landmark tracking
